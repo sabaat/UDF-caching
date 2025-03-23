@@ -106,7 +106,7 @@ In this assignment you'll implement UDF (user-defined function) result caching i
 
 
 ## Assignment Goals
-
+Update hw4-udfcache.ipynb to complete these tasks.
 1. *Diagnose and Measure Performance Bottlenecks:*
 2. *Optimize Data Partitioning:*
 3. *Implement In-Memory UDF Caching*
